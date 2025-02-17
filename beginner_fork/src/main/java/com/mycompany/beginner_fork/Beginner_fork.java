@@ -4,7 +4,6 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Date;
 
-//more: https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html#ixzz90TS1XML9
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
